@@ -11,13 +11,13 @@
 
 - 📫 How to reach me **rishabhshaily2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fLmTreHBCcoX33LmVpwvV9JxYjte3JYC/view?usp=sharing](https://drive.google.com/file/d/1fLmTreHBCcoX33LmVpwvV9JxYjte3JYC/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1fLmTreHBCcoX33LmVpwvV9JxYjte3JYC/view?usp=sharing](https://drive.google.com/file/d/1fLmTreHBCcoX33LmVpwvV9JxYjte3JYC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishabh shaily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh shaily" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/syntax_error404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/syntax_error404" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rishabhshaily2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rishabhshaily2002/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishabh shaily" target="blank">LinkedIn Profile</a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/syntax_error404" target="blank">Codeforces Profile</a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rishabhshaily2002/" target="blank">GeekforGeeks Profile</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
