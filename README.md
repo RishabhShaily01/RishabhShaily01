@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishabh shaily" target="blank">LinkedIn Profile 🔗, </a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/syntax_error404" target="blank">Codeforces Profile 🔗, </a>
+<a href="https://www.linkedin.com/in/rishabh-shaily-38b661180/?originalSubdomain=in" target="blank">LinkedIn Profile 🔗, </a>
+<a href="https://codeforces.com/profile/syntax_error404" target="blank">Codeforces Profile 🔗, </a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rishabhshaily2002/" target="blank">GeekforGeeks Profile 🔗, </a>
 </p>
 
