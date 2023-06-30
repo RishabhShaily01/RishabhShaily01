@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RishabhShaily01](https://github.com/RishabhShaily01)
 
-- 💬 Ask me about **C++,Html,css,javascript,react,mongodb**
+- 💬 Ask me about **C++,Html5,CSS3,Javascript,React.js,Mongodb,Node.js,Express**
 
 - 📫 How to reach me **rishabhshaily2002@gmail.com**
 
